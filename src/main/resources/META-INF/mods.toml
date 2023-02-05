@@ -31,7 +31,7 @@ logoFile="stacking_potions.png" #optional
 # A text field displayed in the mod UI
 credits="Made for my friend, but decided to share" #optional
 # A text field displayed in the mod UI
-authors="SoftFurDraco" #optional
+authors="Furred Draco" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 This mod allows potions to stack together
