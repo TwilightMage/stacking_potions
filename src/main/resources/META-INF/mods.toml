@@ -42,7 +42,7 @@ authors="Furred Draco" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-This mod allows potions to stack together
+This mod allows potions to stack together to a configurable stack size.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.stacking_potions]] #optional
